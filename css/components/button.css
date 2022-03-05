@@ -1,0 +1,38 @@
+.btn-purple{
+	text-decoration: none;
+	font-family: 'Oxygen', sans-serif	;
+	background-color: #713AB9;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 9px;
+}
+.btn-purple:hover{
+	background-color: black;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 9px;
+}
+.btn-banner{
+	text-decoration: none;
+	font-family: 'Oxygen', sans-serif	;
+	background-color: red;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 9px;
+}
+
+.btn-banner:hover{
+	background-color: darkred;
+	color: lightgrey;
+	padding: 15px 20px;
+	border-radius: 9px;
+}
+
+.btn-card{
+	text-decoration: none;
+	font-family: 'Oxygen', sans-serif	;
+	background-color: lightgrey;
+	color: black;
+	padding: 15px 20px;
+	border-radius: 9px;
+}
